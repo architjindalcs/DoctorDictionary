@@ -12,4 +12,4 @@ let interval=setInterval(function()
     {
         clearInterval(interval)
     }
-},80)
+},20)
